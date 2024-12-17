@@ -50,27 +50,36 @@ O iBoard é um sistema completo de RH desenvolvido para gerenciar processos de r
 ## 🚀 Tecnologias Utilizadas
 
 ### Frontend
-- React 18
-- Material-UI (MUI)
-- TypeScript
-- Vite
-- Redux Toolkit
-- Axios
-- React Router DOM
+- **React 18**
+- **Material-UI (MUI)**
+- **Axios**
+- **React Router DOM**
+- **Styled-components**
+- **React Toastify**
+- **React PDF**
+- **Recharts**
+- **React Calendar**
+- **Day.js**
+- **JSPDF**
 
 ### Backend
-- Node.js com Express
-- TypeScript
-- PostgreSQL
-- Sequelize (ORM)
-- Redis (cache)
-- JWT para autenticação
+- **Node.js com Express**
+- **Sequelize (ORM)**
+- **MySQL**
+- **JWT para autenticação**
+- **Bcrypt e Bcryptjs**
+- **Multer**
+- **Nodemailer**
+- **Moment**
+- **dotenv**
+- **CORS**
+- **UUID**
 
 ### DevOps
-- Docker
-- Docker Compose
-- GitHub Actions
-- Nginx
+- **Docker**
+- **Docker Compose**
+- **GitHub Actions**
+- **Nginx**
 
 ## 📦 Pré-requisitos
 - Node.js 18+
