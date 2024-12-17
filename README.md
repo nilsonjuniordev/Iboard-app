@@ -51,8 +51,7 @@ O iBoard é um sistema completo de RH desenvolvido para gerenciar processos de r
 
 ### Frontend
 - React 18
-- PrimeReact
-- PrimeFlex
+- Material-UI (MUI)
 - TypeScript
 - Vite
 - Redux Toolkit
@@ -63,8 +62,8 @@ O iBoard é um sistema completo de RH desenvolvido para gerenciar processos de r
 - Node.js com Express
 - TypeScript
 - PostgreSQL
+- Sequelize (ORM)
 - Redis (cache)
-- Prisma (ORM)
 - JWT para autenticação
 
 ### DevOps
