@@ -1,0 +1,6 @@
+    // Criação de Formação Acadêmica
+    if (ExperienciasProfissionais && ExperienciasProfissionais.length > 0) {
+      await Promise.all(ExperienciasProfissionais.map(async (formacao) => {
+        await FormacaoAcademica.create({ ...formacao, curriculumId: novoCurriculo.id });
+      }));
+    }
